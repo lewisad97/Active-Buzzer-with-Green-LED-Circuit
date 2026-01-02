@@ -11,3 +11,15 @@ One branch of the circuit contains a green LED in series with a current-limiting
 The second branch of the circuit supplies power to an active buzzer via jumper wires connected to the breadboard power rails. The buzzer emits an audible tone when the power supply module is switched on.
 
 This circuit demonstrates the principles of parallel circuits, safe component protection, and regulated power distribution on a breadboard.
+
+What was learned?:
+
+Parrallel loops using the breadboard.
+Testing forward voltage using my multimeter for the first time.
+Safe powering to specific devices by utilisting a single resistor after overpowering the initial LED.
+How the circuit looks in a electrical schimatic.
+Designing the schimatic using KiCad for the first time.
+
+Further improvments:
+Powering the componenets through the R3 Microcontroller via input output pins to the breadboard.
+Using software written in C to add conditions to the components.
